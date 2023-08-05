@@ -1,2 +1,2 @@
 # CEK-Lab
-C programming works throughout my 2020-2024
+C programming works throughout my College years.(2020-present)
